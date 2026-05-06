@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\data\\patientdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\data\\patientdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\models\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\models\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\migrations\\20260505140502_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\migrations\\20260505140502_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Migrations\\20260505111441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoctorService\\Migrations\\20260505111441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\clients\\doctorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\clients\\doctorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|solutionrelative:gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\repository\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|solutionrelative:gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\doctorservice\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14777E7B-3223-466E-BA43-441F200E1489}|DoctorService\\DoctorService.csproj|solutionrelative:doctorservice\\repository\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\repository\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E37F8EB-29FA-4DB6-92DF-D6305DD5841C}|Gateway\\Gateway.csproj|solutionrelative:gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\userservice\\migrations\\20260505111928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8832160-6E8A-C1E0-17C8-08A5783EBD52}|UserService\\UserService.csproj|solutionrelative:userservice\\migrations\\20260505111928_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\appointmentservice\\migrations\\20260505111858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC292CB6-78AE-42C9-AE53-2A93B4509143}|AppointmentService\\AppointmentService.csproj|solutionrelative:appointmentservice\\migrations\\20260505111858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|e:\\teja files\\b1.netangular_vishnuteja_m_healthcare_appointment_\u0026_patient_management_system\\healthcaresolution\\patientservice\\migrations\\20260505110918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132EBBD4-575E-40AA-A717-A5B8102DA7D9}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\migrations\\20260505110918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentService\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:46:35.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Services\\AppointmentService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "AppointmentService\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:47:32.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:15:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\UserDbContext.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:35:40.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientDbContext.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Data\\PatientDbContext.cs",
+              "RelativeDocumentMoniker": "PatientService\\Data\\PatientDbContext.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Data\\PatientDbContext.cs",
+              "RelativeToolTip": "PatientService\\Data\\PatientDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:47:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientDbContextFactory.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Data\\PatientDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PatientService\\Data\\PatientDbContextFactory.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Data\\PatientDbContextFactory.cs",
+              "RelativeToolTip": "PatientService\\Data\\PatientDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T10:47:16.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Models\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Models\\AppointmentStatus.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Models\\AppointmentStatus.cs",
+              "RelativeToolTip": "AppointmentService\\Models\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T02:22:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Models\\Appointment.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentService\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T02:22:13.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260505140502_InitialCreate.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Migrations\\20260505140502_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Migrations\\20260505140502_InitialCreate.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Migrations\\20260505140502_InitialCreate.cs",
+              "RelativeToolTip": "DoctorService\\Migrations\\20260505140502_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:05:02.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Controllers\\DoctorsController.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorService\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:22:36.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorService\\appsettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\appsettings.json",
+              "RelativeToolTip": "DoctorService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T07:22:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Services\\DoctorService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Services\\DoctorService.cs",
+              "RelativeToolTip": "DoctorService\\Services\\DoctorService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:25:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Services\\IDoctorService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorService\\Services\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:22:56.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "Gateway\\ocelot.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\ocelot.json",
+              "RelativeToolTip": "Gateway\\ocelot.json",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:46:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Program.cs",
+              "RelativeDocumentMoniker": "PatientService\\Program.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Program.cs",
+              "RelativeToolTip": "PatientService\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:34:08.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260505111928_InitialCreate.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Migrations\\20260505111928_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UserService\\Migrations\\20260505111928_InitialCreate.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Migrations\\20260505111928_InitialCreate.cs",
+              "RelativeToolTip": "UserService\\Migrations\\20260505111928_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:19:28.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260505111858_InitialCreate.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Migrations\\20260505111858_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Migrations\\20260505111858_InitialCreate.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Migrations\\20260505111858_InitialCreate.cs",
+              "RelativeToolTip": "AppointmentService\\Migrations\\20260505111858_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:18:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260505111441_InitialCreate.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Migrations\\20260505111441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Migrations\\20260505111441_InitialCreate.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Migrations\\20260505111441_InitialCreate.cs",
+              "RelativeToolTip": "DoctorService\\Migrations\\20260505111441_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:14:42.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260505110918_InitialCreate.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Migrations\\20260505110918_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PatientService\\Migrations\\20260505110918_InitialCreate.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Migrations\\20260505110918_InitialCreate.cs",
+              "RelativeToolTip": "PatientService\\Migrations\\20260505110918_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T11:09:19.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Gateway\\appsettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\appsettings.json",
+              "RelativeToolTip": "Gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T10:58:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentService\\appsettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\appsettings.json",
+              "RelativeToolTip": "AppointmentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T07:22:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorClient.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Clients\\DoctorClient.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Clients\\DoctorClient.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Clients\\DoctorClient.cs",
+              "RelativeToolTip": "AppointmentService\\Clients\\DoctorClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:24:23.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:34:07.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\UserService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Services\\UserService.cs",
+              "RelativeToolTip": "UserService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:13:51.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientService\\appsettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\appsettings.json",
+              "RelativeToolTip": "PatientService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T07:22:11.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserService\\Services\\IUserService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Services\\IUserService.cs",
+              "RelativeToolTip": "UserService\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:33:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T07:21:34.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\DTOs\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "DoctorService\\DTOs\\DoctorDto.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\DTOs\\DoctorDto.cs",
+              "RelativeToolTip": "DoctorService\\DTOs\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:25:02.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Repository\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Repository\\DoctorRepository.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Repository\\DoctorRepository.cs",
+              "RelativeToolTip": "DoctorService\\Repository\\DoctorRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:25:13.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Models\\Doctor.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorService\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:56:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DoctorService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DoctorService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:52:11.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:08:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:49:17.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Repository\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorService\\Repository\\IDoctorRepository.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\DoctorService\\Repository\\IDoctorRepository.cs",
+              "RelativeToolTip": "DoctorService\\Repository\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:21:03.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Program.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Program.cs",
+              "RelativeToolTip": "AppointmentService\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwE8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:24:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Repository\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Repository\\IAppointmentRepository.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Repository\\IAppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentService\\Repository\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:01:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentService\\Services\\IAppointmentService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "AppointmentService\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:05:24.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Gateway\\Program.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\Gateway\\Program.cs",
+              "RelativeToolTip": "Gateway\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:41:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "PatientService\\Services\\PatientService.cs",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Services\\PatientService.cs",
+              "RelativeToolTip": "PatientService\\Services\\PatientService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:25:55.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppointmentService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\AppointmentService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppointmentService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:52:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatientService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\PatientService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatientService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:51:49.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\teja files\\B1.NetAngular_VishnuTeja_M_Healthcare_Appointment_\u0026_Patient_Management_System\\HealthcareSolution\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T06:51:19.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
